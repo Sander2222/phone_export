@@ -10,4 +10,5 @@ in the config from [NPWD Phone](https://github.com/project-error/npwd/blob/maste
     "enabled": true,
     "exportResource": "phone_export",
     "exportFunction": "canUsePhone"
-  },```
+  },
+  ```
