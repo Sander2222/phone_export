@@ -35,3 +35,11 @@ Note: If you already have this item in your database you dont have to add this S
 
 If you have ESX Version 1.2 you dont have to change anything, but if you have 1.1 you must change the following line the `weiht`to `limit` :
    [server.lua](https://github.com/Sander2222/phone_export/blob/main/server.lua#L9)
+
+- Notify
+
+and finally you can change the ESX Notify [showAdvancedNotification](https://github.com/Sander2222/phone_export/blob/main/client.lua#L11) for your self. You can find the syntax of it here [Syntax](https://esx-framework.github.io/es_extended/client/functions/showadvancednotification/)
+
+- Note
+
+This Script is only tested on ESX 1.2 and have fun with it
