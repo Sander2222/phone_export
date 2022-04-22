@@ -42,4 +42,4 @@ and finally you can change the ESX Notify [showAdvancedNotification](https://git
 
 - Note
 
-This Script is only tested on ESX 1.2 and have fun with it
+This Script is only tested on ESX 1.2 and have fun with it, if you use ESX_legacy then use this Version [ESX_legacy](https://github.com/PrivateGiles/phone_export)
